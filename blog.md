@@ -10,7 +10,7 @@
 **Notes:**
 * Today was a good start to the project, and I feel like I built a good base of understanding to start implementing the LoRa method in coding. 
 
-![Screenshot of LoRa paper](screenshots/Screenshot 2025-06-18 at 7.27.58 PM.png)
+![Screenshot of LoRa paper](./screenshots/Screenshot 2025-06-18 at 7.27.58 PM.png)
 
 ## Day X: YYYY-MM-DD
 
